@@ -1,0 +1,2 @@
+academy/digitallab/store/registry/RegistryServiceApplication.java
+ academy.digitallab.store.registry.RegistryServiceApplication

@@ -1,0 +1,2 @@
+academy/digitallab/store/gatewayservice/GatewayServiceApplication.java
+ academy.digitallab.store.gatewayservice.GatewayServiceApplication
